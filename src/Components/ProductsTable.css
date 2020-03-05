@@ -1,0 +1,9 @@
+table.ProductsTable {
+	text-align: left;
+	background-color : white;
+	color : black;
+}
+table.ProductsTable, .ProductsTable th, .ProductsTable td {
+	border : black 1px solid;
+	padding : 3px 8px;
+}
